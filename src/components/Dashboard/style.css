@@ -1,0 +1,10 @@
+.switchBtn {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.totalCount span {
+    margin-left: 5px;
+    color: #073270;
+    font-weight: bold;
+}
